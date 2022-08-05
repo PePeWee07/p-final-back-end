@@ -55,13 +55,13 @@ public class Persona {
 	public String getComentario() {
 		return comentario;
 	}
-	public void seComentario(String comentario) {
+	public void setComentario(String comentario) {
 		this.comentario = comentario;
 	}
 	public String getFoto() {
 		return foto;
 	}
-	public void seFoto(String foto) {
+	public void setFoto(String foto) {
 		this.foto = foto;
 	}
 }
